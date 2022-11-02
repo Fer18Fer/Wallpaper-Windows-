@@ -1,0 +1,40 @@
+*{
+	background: black;
+	color: white;
+	text-decoration: none;
+	font-size: 20px;
+}
+nav{
+}
+h1{
+background:white;
+color: green;
+}
+.ul1{
+
+}
+li{
+display: inline-block;
+margin-right: 20px;
+background: white;
+border-radius: 30px;
+color: 
+}
+a{
+color: red;
+}
+a:hover{
+	background:green;
+	border-radius: 50px;
+	font-size: 30px;
+}
+.h21{
+	margin-top: 30px;
+	width: 500px;
+}
+.img1{
+	display: block;
+	margin-top: 30px;
+	width: 1300px;
+	height: 900px;
+}
